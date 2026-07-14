@@ -174,8 +174,8 @@ gcc Q1_sum_of_n_natural_numbers.c -o output
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=<code-with-kishan>&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=<code-with-kishan>&theme=radical&hide_border=true" width="48%"/>
 
 </div>
 
