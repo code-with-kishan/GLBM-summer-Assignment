@@ -11,7 +11,7 @@
 ![Progress](https://img.shields.io/badge/Progress-30%2F30_Days-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
-![Made By](https://img.shields.io/badge/Made%20By-Kishan%20Nishad-orange?style=for-the-badge&logo=data:image/png;base64,)
+![Made By](https://img.shields.io/badge/Made%20By-Kishan%20Nishad-orange?style=for-the-badge)
 
 </div>
 
@@ -156,7 +156,7 @@ Status         : ✅ All 30 Days Completed
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/code-with-kishan/<repo-name>.git
 
 # Move into any Day folder
 cd Day-1
@@ -174,8 +174,8 @@ gcc Q1_sum_of_n_natural_numbers.c -o output
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=<code-with-kishan>&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<code-with-kishan>&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-kishan&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=code-with-kishan&theme=radical&hide_border=true" width="48%"/>
 
 </div>
 
